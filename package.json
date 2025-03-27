@@ -1,0 +1,23 @@
+{
+  "name": "test-pgk-sum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-abdulrehman/test-pgk-sum.git"
+  },
+  "keywords": [
+    "test-pgk-sum"
+  ],
+  "author": "Abdul Rehman",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/code-abdulrehman/test-pgk-sum/issues"
+  },
+  "homepage": "https://github.com/code-abdulrehman/test-pgk-sum#readme",
+  "description": "An test-pgk-sum project"
+}
