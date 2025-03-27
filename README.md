@@ -1,5 +1,11 @@
 # test-pgk-sum
 
+## Demo
+
+See the package in action:
+
+![How to use test-pgk-sum](how.gif)
+
 A simple JavaScript package that calculates and returns the sum of two numbers with a formatted message.
 
 [![npm version](https://img.shields.io/npm/v/test-pgk-sum.svg)](https://www.npmjs.com/package/test-pgk-sum)
